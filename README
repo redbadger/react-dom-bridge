@@ -1,0 +1,3 @@
+react-dom-bridge
+
+Decorate DOM classes on React.DOM with React.createFactory.
