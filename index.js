@@ -1,5 +1,5 @@
 var React = require('react');
-var prelude = require('prelude-ls'),
+var prelude = require('prelude-ls');
 var Obj = prelude.Obj;
 var List = prelude.List;
 var keys = Obj.keys(React.DOM);
