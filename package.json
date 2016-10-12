@@ -1,6 +1,6 @@
 {
   "name": "react-dom-bridge",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Decorate DOM classes on React.DOM with React.createFactory.",
   "main": "index.js",
   "scripts": {
