@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "prelude-ls": "^1.1.2",
-    "react": "^0.14.3"
+    "react": "0.14.3"
   }
 }
